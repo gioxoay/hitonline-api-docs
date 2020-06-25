@@ -1,5 +1,6 @@
 ---
-tags: [00. Welcome]
+title: HIT Online API
+tags: [00. Introduction]
 ---
 
 # HIT Online API
