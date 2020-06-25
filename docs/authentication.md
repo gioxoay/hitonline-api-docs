@@ -1,9 +1,9 @@
 ---
-title: UI Overview
-tags: [00. Welcome]
+title: Authentication
+tags: [00. Authentication]
 ---
 
-# UI Overview
+# Authentication
 
 ![](../assets/images/studio-overview.png)
 
